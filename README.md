@@ -4,11 +4,13 @@
 微信/易信扫描下图二维码打开页面，并分享
 ![nyphile](http://nyphile.github.io/Yixin.chat.js/images/qcode.png)
 或微信/易信打开[http://nyphile.github.io/Yixin.chat.js/](http://nyphile.github.io/Yixin.chat.js/)
-=============
 
 ** 1.配置参数 **
+
 在页面中写入<script>标签，内容如下：
+
 ```js
+
 var shareData = {
 	link : 'http://jiankang.163.com/special/weixin_quiz/',
 	imgUrl : 'http://img1.cache.netease.com/f2e/health/weixin_quiz/images/120x120-5star.jpg',
@@ -20,6 +22,7 @@ var shareData = {
 		document.getElementsByTagName("h1")[0].innerHTML="I'm back!";
 	}
 };
+
 ```
 
 其中：
