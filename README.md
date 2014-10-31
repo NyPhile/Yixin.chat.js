@@ -51,5 +51,5 @@ callback：点击时触发的方法(是点击时，而非分享成功)，可留�
 
 即可。
 
-感谢[https://github.com/sofish](sofish)同学的[http://sofish.github.io/wechat.js](wechat.js)~
+感谢[sofish](https://github.com/sofish)同学的[wechat.js](http://sofish.github.io/wechat.js)~
 
