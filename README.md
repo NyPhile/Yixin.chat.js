@@ -21,6 +21,7 @@ var shareData = {
 	}
 };
 ```
+
 其中：
 link：想让看到分享的用户点击的链接，不设置即为当前页面；
 imgUrl：分享块左侧的图片；
@@ -32,7 +33,9 @@ callback：点击时触发的方法(是点击时，而非分享成功)，可留�
 
 ** 2.页面引入 **
 除了上述配置，再在配置之后引入js：
+
 > <script src="http://nyphile.github.io/Yixin.chat.js/weiyixin.chat.js"></script>
+
 即可。
 
 感谢[https://github.com/sofish](sofish)同学的[http://sofish.github.io/wechat.js](wechat.js)~
