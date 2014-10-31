@@ -2,7 +2,9 @@
 一个微信和易信的分享的简单js~
 
 微信/易信扫描下图二维码打开页面，并分享
+
 ![nyphile](http://nyphile.github.io/Yixin.chat.js/images/qcode.png)
+
 或微信/易信打开[http://nyphile.github.io/Yixin.chat.js/](http://nyphile.github.io/Yixin.chat.js/)
 
 **1.配置参数**
