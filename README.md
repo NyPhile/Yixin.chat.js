@@ -26,15 +26,23 @@ var shareData = {
 ```
 
 其中：
+
 link：想让看到分享的用户点击的链接，不设置即为当前页面；
+
 imgUrl：分享块左侧的图片；
+
 imgSize：图片的尺寸；
+
 title：分享块的标题文字，不设置即为当前页面title；
+
 desc：分享块的描述文字，不设置即为当前页面title(在微信下，分享到朋友圈没有描述)；
+
 appid：app的id，可不设置；
+
 callback：点击时触发的方法(是点击时，而非分享成功)，可留空。
 
 **2.页面引入**
+
 除了上述配置，再在配置之后引入js：
 
 > `<script src="http://nyphile.github.io/Yixin.chat.js/weiyixin.chat.js"></script>`
