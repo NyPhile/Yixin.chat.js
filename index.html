@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=cbk">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="format-detection" content="telephone=no" />
+<meta name="model_url" content="${modelUrl}" />
+<title>测试页面请点击右上角分享</title>
+<meta name="keywords" content="null" />
+<meta name="description" content="null" />
+</head>
+<body>
+<h1>测试页面请点击右上角分享</h1>
+<script>
+var shareData = {
+	link : 'http://jiankang.163.com/special/weixin_quiz/',
+	imgUrl : 'http://img1.cache.netease.com/f2e/health/weixin_quiz/images/120x120-5star.jpg',
+	imgSize : '300',
+	title : '测测你的“白领症”中招指数吧！',
+	desc : '我刚测完自己的”白领症“中招指数，你也来测测你的“白领症”中招指数吧！',
+	appid : '',
+	callback : function(){
+		document.getElementsByTagName("h1")[0].innerHTML="I'm back!";
+	}
+}
+</script>
+<script src="http://img1.cache.netease.com/f2e/health/weixin_quiz/weixin_yixin_share.817519.min.js"></script>
+</body>
+</html>
