@@ -55,15 +55,15 @@ callback：点击时触发的方法(是点击时，而非分享成功)，可留�
 
 微信发给好友：
 
-![nyphile](http://img1.cache.netease.com/f2e/health/index2014/images/wechat_friend.png)
+![nyphile](http://img1.cache.netease.com/f2e/health/index2014/images/wechat_friend.png?20141031)
 
 微信发给好友圈：
 
-![nyphile](http://img1.cache.netease.com/f2e/health/index2014/images/wechat_timeline.png)
+![nyphile](http://img1.cache.netease.com/f2e/health/index2014/images/wechat_timeline.png?20141031)
 
 易信发给好友和发给朋友圈长得一样：
 
-![nyphile](http://img1.cache.netease.com/f2e/health/index2014/images/yixin_timeline.png)
+![nyphile](http://img1.cache.netease.com/f2e/health/index2014/images/yixin_timeline.png?20141031)
 
 
 最后感谢[sofish](https://github.com/sofish)同学的[wechat.js](http://sofish.github.io/wechat.js)~
