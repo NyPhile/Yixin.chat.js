@@ -1,4 +1,4 @@
-# Yixin.chat.js
+# weiyixin.chat.js
 
 一个微信和易信的分享的简单js，用来自定义用户分享后的“分享块”显示的内容~
 
